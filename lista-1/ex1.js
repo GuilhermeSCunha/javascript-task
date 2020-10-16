@@ -5,4 +5,3 @@ let isApproved = studentGrade >= 8
 
 console.log ("está aprovado?", isApproved)
 
-
