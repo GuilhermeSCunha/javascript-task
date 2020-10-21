@@ -75,8 +75,6 @@ const data = [
         notas: [4, 6, 7, 3],
       }
 
-
-
   ]
 
   let total = 0;
